@@ -30,5 +30,5 @@ The project features multiple weapons, animated enemies, loot drops, wave-based 
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="Assets/Screenshots/fpsgame_preview.png" width="600" alt="Gameplay Screenshot">
+  <img src="Assets/fpsgame_preview.png" width="600" alt="Gameplay Screenshot">
 </p>
