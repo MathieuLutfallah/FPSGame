@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 5e687c581d8c64c4e8ff599662e5f0bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3764323335679367764
+    second: Zombie Face
+  - first:
+      213: -1329477049495763944
+    second: zombieFace-removebg-preview_1
+  - first:
+      213: 4010865798640956062
+    second: zombieFace-removebg-preview_2
+  - first:
+      213: 3889268776773420364
+    second: zombieFace-removebg-preview_3
+  - first:
+      213: -791252420617488749
+    second: zombieFace-removebg-preview_4
+  - first:
+      213: 8513637692543713274
+    second: zombieFace-removebg-preview_5
+  - first:
+      213: 5584119248000360702
+    second: zombieFace-removebg-preview_6
+  - first:
+      213: -232381020214136351
+    second: zombieFace-removebg-preview_7
+  - first:
+      213: 5167736256664009238
+    second: zombieFace-removebg-preview_8
+  - first:
+      213: -7425590470734239638
+    second: zombieFace-removebg-preview_9
+  - first:
+      213: -6849620390475914558
+    second: zombieFace-removebg-preview_10
+  - first:
+      213: -1255389097720853570
+    second: zombieFace-removebg-preview_11
+  - first:
+      213: 4180476738619175939
+    second: zombieFace-removebg-preview_12
+  - first:
+      213: 787762148553558057
+    second: zombieFace-removebg-preview_13
+  - first:
+      213: 2034607899002314745
+    second: zombieFace-removebg-preview_14
+  - first:
+      213: -6203096636742699969
+    second: zombieFace-removebg-preview_15
+  - first:
+      213: 2832464615034459220
+    second: zombieFace-removebg-preview_16
+  - first:
+      213: 4297968612487845256
+    second: zombieFace-removebg-preview_17
+  - first:
+      213: 3238026635372862928
+    second: zombieFace-removebg-preview_18
+  - first:
+      213: -8267833788884648775
+    second: zombieFace-removebg-preview_19
+  - first:
+      213: -7013370772424266806
+    second: zombieFace-removebg-preview_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie Face
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 294
+        width: 115
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca52e15dedf62cbc0800000000000000
+      internalID: -3764323335679367764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 274
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81445c7daafbc8de0800000000000000
+      internalID: -1329477049495763944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 276
+        width: 119
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92f1c1813579a730800000000000000
+      internalID: 4010865798640956062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 276
+        width: 119
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c450993a85579f530800000000000000
+      internalID: 3889268776773420364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 197
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3963d6d9d18e405f0800000000000000
+      internalID: -791252420617488749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 198
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affb17acf54862670800000000000000
+      internalID: 8513637692543713274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 194
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0ab70ced6ce7d40800000000000000
+      internalID: 5584119248000360702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 146
+        width: 118
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f79d71ba66ccf0800000000000000
+      internalID: -232381020214136351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 147
+        width: 118
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a7d5fdebc77b740800000000000000
+      internalID: 5167736256664009238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 135
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a682c503fc003f890800000000000000
+      internalID: -7425590470734239638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 97
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c22963bb8241f0a0800000000000000
+      internalID: -6849620390475914558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 152
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb43775446f39ee0800000000000000
+      internalID: -1255389097720853570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 98
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304fd25d179040a30800000000000000
+      internalID: 4180476738619175939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 135
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92888081081beea00800000000000000
+      internalID: 787762148553558057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 99
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff9c35ba116c3c10800000000000000
+      internalID: 2034607899002314745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 98
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34f78b697c2ae9a0800000000000000
+      internalID: -6203096636742699969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 15
+        width: 114
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4541ef17f8fee4720800000000000000
+      internalID: 2832464615034459220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 51
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885dd137ea375ab30800000000000000
+      internalID: 4297968612487845256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 51
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd17aea118cfec20800000000000000
+      internalID: 3238026635372862928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 16
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcfe8f49f0c24d80800000000000000
+      internalID: -8267833788884648775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieFace-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 15
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb6b8fd0708bae90800000000000000
+      internalID: -7013370772424266806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cdead61c4f1f6b54381d5fbf54b36bb6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
