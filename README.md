@@ -1,20 +1,21 @@
 # 🎯 FPS Game (Unity 2019.3.6f1)
 
 A fun first-person shooter prototype developed in **Unity 2019.3.6f1** back in 2020.  
-The project features multiple weapons, animated enemies, loot drops, and a working minimap — built as a hobby project to explore gameplay mechanics and Unity’s component-based design.
+The project features multiple weapons, animated enemies, loot drops, wave-based spawning, and a working minimap — built as a hobby project to explore gameplay mechanics and Unity’s component-based design.
 
 ---
 
 ## 🕹️ Features
 
-- **Two Weapons** – Shoot and reload mechanics implemented for both.
+- **Wave-Based Combat** – Enemies spawn in waves that increase in difficulty.
+- **Two Weapons** – Each with shooting and reloading mechanics.
 - **Enemy AI** – Enemies automatically spawn and move toward the player.
-- **Enemy Animations** – Includes attack animations and basic movement cycles.
-- **Loot System** – Enemies drop boxes upon death that can be collected.
-- **Minimap** – Shows player and enemy positions in real-time.
-- **Spawn Management** – Automated enemy spawning system.
-- **Simple UI** – Displays ammo, health, and minimap overlay.
-
+- **Enemy Animations** – Includes attack and movement animations.
+- **Loot System** – Enemies drop collectible boxes upon death.
+- **Minimap** – Displays player and enemy positions in real-time.
+- **Spawn Management** – Automated system handling wave timing and difficulty scaling.
+- **Small GUI Overlay** – Shows essential gameplay info like health, ammo, and minimap, plus a section listing movement and control keys (e.g. move, shoot, reload).
+  
 ---
 
 ## 🧠 Tech Details
@@ -28,7 +29,6 @@ The project features multiple weapons, animated enemies, loot drops, and a worki
 
 ## 🖼️ Screenshots
 
-*(Add an image from your project here!)*  
-For example:
-```markdown
-![Gameplay Screenshot](Assets/Screenshots/fpsgame_preview.png)
+<p align="center">
+  <img src="Assets/Screenshots/fpsgame_preview.png" width="600" alt="Gameplay Screenshot">
+</p>
