@@ -24,7 +24,7 @@ The project features multiple weapons, animated enemies, loot drops, wave-based 
 - **Language:** C#  
 - **Year Developed:** 2020  
 - **Assets:** Various free assets sourced online (models, sounds, and animations)
-
+- **Main Scene:** `Assets/Scenes/Main Game.unity`
 ---
 
 ## 🖼️ Screenshots
